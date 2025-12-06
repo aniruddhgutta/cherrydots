@@ -1,0 +1,6 @@
+[X-GNOME-Metatheme]
+Name=minidark
+Type=X-GNOME-Metatheme
+Comment=minidark theme
+Encoding=UTF-8
+GtkTheme=minidark

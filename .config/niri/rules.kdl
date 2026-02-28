@@ -70,7 +70,7 @@ window-rule {
 
 // Enable blur behind spotify.
 window-rule {
-    match app-id="^(spotify)$"
+    match app-id="^(spotify|org.gnome.Nautilus)$"
 
     opacity 0.9
 

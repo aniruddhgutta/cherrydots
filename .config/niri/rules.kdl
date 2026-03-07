@@ -59,15 +59,6 @@ layer-rule {
     geometry-corner-radius 0
 }
 
-// Enable blur behind the foot terminal.
-window-rule {
-    match app-id="^(footclient|foot)$"
-
-    background-effect {
-        blur true
-    }
-}
-
 // Enable blur behind spotify.
 window-rule {
     match app-id="^(spotify|org.gnome.Nautilus)$"
